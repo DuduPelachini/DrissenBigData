@@ -209,7 +209,3 @@ Contributions are what make the open source community such an amazing place to l
 
 This project is licensed under the [MIT License](https://github.com/romaincaraes/bond-valuation-python/blob/master/LICENSE).
 
-## Authors
-
-
-<img src="frontend/src/pages/public/images/icon.jpg">
